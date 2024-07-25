@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Run a command as another user in linux
+
+su -s /bin/bash "$1" -c whoami
