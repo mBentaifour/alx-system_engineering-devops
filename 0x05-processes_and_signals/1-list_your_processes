@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+#  which might not have a TTY.
+
+ps -auxf
